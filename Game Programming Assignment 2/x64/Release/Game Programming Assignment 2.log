@@ -1,0 +1,6 @@
+﻿  Entity.cpp
+  EntityManager.cpp
+  Game.cpp
+  Main.cpp
+A:\Visual Studio projects\Game Programming Assignment 2\Game Programming Assignment 2\Main.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Vec2.cpp
